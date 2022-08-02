@@ -1,0 +1,8 @@
+[submodule "milikey-frontend"]
+	path = milikey-frontend
+	url = https://github.com/sfwnhmd/milikey-frontend.git
+	branch = develop
+[submodule "milikey-backend"]
+	path = milikey-backend
+	url = https://github.com/sfwnhmd/milikey-backend.git
+	branch = develop
